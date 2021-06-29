@@ -5,4 +5,4 @@ LightGBM <<< デフォルトでモデルを作成
 
 LightGBM_weight <<< 学習データに重み付けを行ってモデルを作成
 
-OpunTuna_LightGBM <<< OpunTunaでハイパーパラメータを調整しモデルを作成
+OpTuna_LightGBM <<< OpTunaでハイパーパラメータを調整しモデルを作成
